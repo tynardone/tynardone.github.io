@@ -18,21 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Tyler Nardone Portfolio
+name: Tyler Nardone
+email: tynardone@gmail.com
+logo: /assets/images/bio-photo.png
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Welcome to my peronal blog and project portfolio site. I am currently a data analyst aspiring to advance further in my career.
+  I am passionate about data, technology, and learning new things. I am always looking for new opportunities to learn and grow.
+  This site is for sharing my personal projects and blog posts to help both myself and hopefully others learn and grow! Cheers.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: tynardone
+github_username:  tynardone
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
-  - jekyll-feed
+  - jekyll-feeddd
   - jekyll-sitemap
   - jekyll-include-cache
 
