@@ -2,9 +2,7 @@
 
 ---
 
-## Section 1
-
-### Project title 1
+## Project title 1
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
@@ -14,7 +12,7 @@ Project 1 descriptions.
 
 ---
 
-### Project 2 title
+## Project title 2
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
@@ -24,7 +22,7 @@ Project 1 descriptions.
 
 ---
 
-### Project 3 title
+## Project 3 title
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
@@ -35,8 +33,6 @@ Project 1 descriptions.
 <br>
 
 ---
-
-## Section 2
 
 ### Project 3 title
 
